@@ -6,11 +6,6 @@ Ce module fournit une base de connaissance "froide" : informations officielles s
 ## Contexte académique
 Projet réalisé dans le cadre du **M2 MIAGE Numérique Responsable**.
 
-## Repository de publication
-Le projet doit être publié uniquement sur :
-
-git@github.com:ElMouddenRiad/SpringBoot-SOLID-backend-feature-architecture-AnimeTracker-Catalogue.git
-
 ## English summary
 This Spring Boot project focuses on the **AnimeTracker Catalogue Backend**.
 It provides a clean backend for the catalog of anime titles, separated from the future user watchlist.
